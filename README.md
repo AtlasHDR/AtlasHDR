@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AtlasHDR
-- 👀 I’m interested in coding in general (oh, and chess)
-- 🌱 I’m currently learning anything really, if I got the motivation
-- 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me IG: Altsahdr Gmail: altzaaa47@gmail.com
+- 👋 Hi, I’m Altsa Hendranur Rahman or @AtlasHDR
+- 👀 I’m interested in coding and Japanese in general (oh, and chess)
+- 🌱 Currently learning Japanese language, PHP, and HTML
+- 📫 How to reach me IG: Altsahdr Gmail: altzaaa47@gmail.com or Outlook: altsa.rahman@my.sampoernauniversity.ac.id
 
 <!---
 AtlasHDR/AtlasHDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
